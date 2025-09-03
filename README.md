@@ -2,7 +2,7 @@
 
 This repository contains the code and data preprocessing scripts for the MSc dissertation:
 
-**"Uncertainty Quantification in Bayesian Deep Learning for Financial Time Series Forecasting"**  
+**"Uncertainty Quantification in Bayesian Deep Learning for Financial Time Series Forecasting: Calibration, Interpretability, and Comparison of Methods"**  
 by Miranda-Belle Onyekwere, Imperial College London, 2025.
 
 ---
